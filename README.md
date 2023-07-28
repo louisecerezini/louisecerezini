@@ -4,8 +4,6 @@
 <div>
   <b>
     <h3>
-  I am from Brazil 🇧🇷 <br>
-  I live in Winnipeg - Canada 🇨🇦<br>
   I'm a software developer person and I'm currently studying backEnd.💻
   </h3>
 </div>
