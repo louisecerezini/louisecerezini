@@ -4,7 +4,7 @@
 <div>
   <b>
     <h3>
-  I'm a software developer person and I'm currently studying backEnd.💻
+  I'm a software developer person.💻
   </h3>
 </div>
 
